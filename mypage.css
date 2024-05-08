@@ -3,6 +3,7 @@ body {
     flex-direction: column;
     align-items: center;
     background-color: #170123;
+    color: #F57D1F;
 }
 
 .container {
