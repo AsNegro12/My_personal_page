@@ -1,11 +1,17 @@
 body {
-    background-color: grey;
-}
-
-#myPersonalPresentation {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: black;
+    background-color: #170123;
+}
+
+.container {
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+    background-color: #F57D1F;
     color: white;
+    width: 1000px;
+    margin-top: 1em;
+    border-radius: 15px
 }
